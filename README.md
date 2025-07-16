@@ -2,6 +2,20 @@
 Data Structures and Algorithms II — C950
 
 PRFA — NHP3
+
+<p><b>Competencies</b></p>
+4048.5.3 : Dictionaries and Sets
+
+The graduate incorporates dictionaries and sets in order to organize data into key-value pairs.
+
+4048.5.4 : Self-Adjusting Data Structures
+
+The graduate evaluates the space and time complexity of self-adjusting data structures using big-O notation to improve the performance of applications.
+
+4048.5.6 : NP-Completeness and Turing Machines
+
+The graduate evaluates computational complexity theories in order to apply models to specific scenarios.
+
 Introduction
 For Tasks 1 and 2, you will apply the algorithms and data structures you studied in this course to solve a real programming problem. You will also implement an algorithm to route delivery trucks that will allow you to meet all delivery constraints while traveling under 140 miles. You will then describe and justify the decisions you made while creating this program.
 
@@ -114,6 +128,22 @@ E.  Demonstrate professional communication in the content and presentation of yo
 Data Structures and Algorithms II — C950
 
 PRFA — NHP3
+
+<p><b>Competencies</b></p>
+4048.5.1 : Non-Linear Data Structures
+
+The graduate creates software applications that incorporate non-linear data structures for efficient and maintainable software.
+
+4048.5.2 : Hashing Algorithms and Structures
+
+The graduate writes code using hashing techniques within an application to perform searching operations.
+
+4048.5.5 : Self-Adjusting Heuristics
+
+The graduate writes code using self-adjusting heuristics to improve the performance of applications.
+
+
+
 Introduction
 For Tasks 1 and 2, you will apply the algorithms and data structures you studied in this course to solve a real programming problem. You will also implement an algorithm to route delivery trucks that will allow you to meet all delivery constraints while traveling under 140 miles. You will then describe and justify the decisions you made while creating this program.
 
